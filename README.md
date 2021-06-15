@@ -1,7 +1,7 @@
 # PYTHON AND MACHINE LEARNING NATIONAL WORKSHOP
 Hi I attended 7 Days National Workshop on "Python And Machine Learning" from 07-13 June 2021, conducted by <b> THE CODE SCHOLAR</b>.
 
-<br>I got to have hands on experience on:
+<br>I got to have hands on experience on :
 <li>Python
 <li>Machine Learning
 <li>Project Understanding
